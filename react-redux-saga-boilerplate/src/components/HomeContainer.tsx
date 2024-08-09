@@ -144,7 +144,7 @@ const HomeContainer: React.FC<HomeContainerProps> = ({ userDetails, login }) => 
     <div className="homepage-container pt-5 mt-5">
       <div className="container">
         <div className="jumbotron mt-5">
-          <h1 className="display-4">Find Job</h1>
+          <h1 className="display-4">Find Job err</h1>
           <p className="lead">Search jobs by skill, location, and category.</p>
 
           <form onSubmit={handleSearch}>
